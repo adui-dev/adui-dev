@@ -2,7 +2,7 @@
 
 > 一个主要负责制造 BUG，偶尔顺手修一下的前端工程师 🐞
 
-<img src="./logo.jpg" alt="logo" align="right" width="140" />
+<img src="./logo.jpg" alt="logo" align="right" width="100" />
 
 没事写写**暂时用不上但迟早会有用的代码**，  
 主要作用是给自己找点学习的理由。
