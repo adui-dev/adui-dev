@@ -23,9 +23,13 @@
 - 其他：Git / Linux / Docker（还在熟悉）
 
 ## 📈 GitHub Stats
-<img
-  src="https://github-stats-extended.vercel.app/api?username=adui-dev&show_icons=true&icon_color=333333&text_color=333333&bg_color=ffffff&title_color=333333&count_private=true&locale=cn"
-/>
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 > 写代码不是为了没有 BUG，  
 > 而是为了下次遇到 BUG 时不那么慌。
