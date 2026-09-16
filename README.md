@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats
 <img
-  src="https://github-readme-stats.vercel.app/api?username=adui-dev&show_icons=true&icon_color=333333&text_color=333333&bg_color=ffffff&title_color=333333&count_private=true&locale=cn"
+  src="https://github-stats-extended.vercel.app/api?username=adui-dev&show_icons=true&icon_color=333333&text_color=333333&bg_color=ffffff&title_color=333333&count_private=true&locale=cn"
 />
 
 > 写代码不是为了没有 BUG，  
