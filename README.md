@@ -23,11 +23,9 @@
 - 其他：Git / Linux / Docker（还在熟悉）
 
 ## 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;
   <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
